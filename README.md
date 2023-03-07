@@ -1,1 +1,1 @@
-# Previsão de Vendas - Rede de Farmácias Rossmann
+# Previsão de Vendas - Farmácias Rossmann
