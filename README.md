@@ -104,7 +104,7 @@ From a bot created in the Telegram application, it is possible to quickly and co
 
 ![](img/result_values.png)
 
-As shown in the image, the estimated sale value is BRL 285,817,920.00, which can vary between BRL 286,679,971.85 ( Best case scenario ) and BRL 284,955,855.77 ( Worst case scenario ).
+As shown in the image, the estimated sale value is BRL 286,988,384.00, which can vary between BRL 287,742,483.83 ( Best case scenario ) and BRL 286,234,315.47 ( Worst case scenario ).
 
 # 8.0 Conclusions
 As can be seen, the project solved the initial problem, which was the forecast of stores' billing done manually by their managers.
